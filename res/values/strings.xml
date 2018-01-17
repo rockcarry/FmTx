@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FM transmitter</string>
+    <string name="txt_fmonoff">Please check this button to open the FM-Tx function.</string>
+    <string name="mhz">MHz</string>
+</resources>

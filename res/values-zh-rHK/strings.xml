@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FM 發射</string>
+    <string name="pwrnotice">請勾選按鈕打開 FM 發射功能.</string>
+</resources>

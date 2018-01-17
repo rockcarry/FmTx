@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FM 发射</string>
+    <string name="txt_fmonoff">请勾选按钮打开 FM 发射功能.</string>
+</resources>
